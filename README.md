@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Nick</h1>
+<h1 align="center">Hey, I'm Nick :)</h1>
 <h3 align="center">A backend developer student</h3>
 
 - 👨‍💻 My Beecrowd is [beecrowd.com.br/judge/en/profile/273424](beecrowd.com.br/judge/en/profile/273424)
